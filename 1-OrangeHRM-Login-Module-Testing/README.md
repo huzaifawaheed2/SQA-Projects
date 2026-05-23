@@ -146,7 +146,6 @@ No defects were identified during testing.
 │   └── SC-08_Forgot_Password_Page.png
 
 └── README.md
-```
 
 ---
 
