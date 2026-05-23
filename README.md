@@ -101,7 +101,7 @@ Topics:
 
 ## Repository Structure
 
-
+```text
 SQA-Projects
 │
 ├── 01-OrangeHRM-Login-Module-Testing
@@ -110,7 +110,7 @@ SQA-Projects
 ├── 04-SQL-Database-Testing
 ├── 05-ETL-Testing-Project
 └── README.md
-
+```
 
 ---
 
