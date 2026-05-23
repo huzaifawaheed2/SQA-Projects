@@ -121,20 +121,22 @@ No defects were identified during testing.
 ## Project Structure
 
 ```text
-1-OrangeHRM-Login-Module-Testing
-
+01-OrangeHRM-Login-Module-Testing
+│
 ├── docs
-│   ├── Requirements_Document.docx
-│   └── OrangeHRM_Login_Module_Test_Summary_Report.pdf
-
+│   ├── Project_Requirements.docx
+│   ├── Project_Requirements.pdf
+│   ├── Test_Summary_Report.docx
+│   └── Test_Summary_Report.pdf
+│
 ├── test-cases
 │   ├── Test_Scenarios.xlsx
 │   ├── Test_Cases.xlsx
 │   └── RTM.xlsx
-
+│
 ├── bug-reports
 │   └── Bug_Report.xlsx
-
+│
 ├── screenshots
 │   ├── SC-01_Login_Page.png
 │   ├── SC-02_Successful_Login_Dashboard.png
@@ -144,7 +146,7 @@ No defects were identified during testing.
 │   ├── SC-06_Both_Fields_Required_Validation.png
 │   ├── SC-07_Password_Masking.png
 │   └── SC-08_Forgot_Password_Page.png
-
+│
 └── README.md
 ```
 
