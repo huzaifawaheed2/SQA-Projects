@@ -10,13 +10,13 @@ The objective of this project was to validate login functionality, authenticatio
 
 ## Application Under Test
 
- Item  Details 
-----------------
- Application Name  OrangeHRM Demo 
- Module Tested  Login Module 
- Testing Type  Manual Testing 
- Browser  Google Chrome 
- Operating System  Windows 10 
+| Item | Details |
+|--------|--------|
+| Application Name | OrangeHRM Demo |
+| Module Tested | Login Module |
+| Testing Type | Manual Testing |
+| Browser | Google Chrome |
+| Operating System | Windows 10 |
 
 ---
 
@@ -45,7 +45,7 @@ The objective of this project was to validate login functionality, authenticatio
 
 ## Test Artifacts
 
-The following QA documents were created during the project
+The following QA documents were created during the project:
 
 - Requirements Document
 - Test Scenarios
@@ -59,31 +59,31 @@ The following QA documents were created during the project
 
 ## Test Execution Summary
 
- Metric  Count 
---------------------
- Total Test Scenarios  10 
- Total Test Cases  10 
- Executed Test Cases  10 
- Passed Test Cases  10 
- Failed Test Cases  0 
- Blocked Test Cases  0 
- Pass Percentage  100% 
+| Metric | Count |
+|----------|----------|
+| Total Test Scenarios | 10 |
+| Total Test Cases | 10 |
+| Executed Test Cases | 10 |
+| Passed Test Cases | 10 |
+| Failed Test Cases | 0 |
+| Blocked Test Cases | 0 |
+| Pass Percentage | 100% |
 
 ### Execution Status
 
-PASS
+**PASS**
 
 ---
 
 ## Defect Summary
 
- Severity  Count 
---------------------
- Critical  0 
- High  0 
- Medium  0 
- Low  0 
- Total Defects  0 
+| Severity | Count |
+|----------|----------|
+| Critical | 0 |
+| High | 0 |
+| Medium | 0 |
+| Low | 0 |
+| Total Defects | 0 |
 
 No defects were identified during testing.
 
